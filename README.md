@@ -1,2 +1,3 @@
 # instagram-dio-master
 Desafio DIO - Recriando a página inicial do Instagram
+Neste desafio foram feitas algumas modificações: Foto de Perfil, Backgroun, et...
